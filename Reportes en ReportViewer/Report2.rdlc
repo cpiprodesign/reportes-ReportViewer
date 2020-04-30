@@ -689,7 +689,7 @@
       <Border>
         <Style>None</Style>
       </Border>
-      <BackgroundColor>Aqua</BackgroundColor>
+      <BackgroundColor>White</BackgroundColor>
     </Style>
   </Body>
   <Width>9.48202in</Width>
